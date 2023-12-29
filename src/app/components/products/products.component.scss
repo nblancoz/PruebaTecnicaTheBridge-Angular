@@ -1,0 +1,24 @@
+.custom-table {
+  width: 80%;
+  border-collapse: collapse;
+  margin-top: 10px;
+
+  th,
+  td {
+    padding: 8px;
+    border: 1px solid #dddddd;
+  }
+
+  thead tr {
+    background-color: #f2f2f2;
+  }
+
+  tbody tr {
+    background-color: #ffffff;
+  }
+}
+
+.divTable {
+  display: flex;
+  justify-content: center;
+}
